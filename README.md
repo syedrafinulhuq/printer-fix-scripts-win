@@ -158,6 +158,4 @@ You can extend this repo with scripts for other tech-support fixes (Wi-Fi, updat
 ---
 
 ```
----
 
-```
