@@ -1,10 +1,8 @@
 ---
-
-
 ## 📂 Repo Structure
 
 ```
-printer-fix-scripts/
+printer-fix-scripts-win/
 │
 ├── scripts/
 │   ├── FixPrinter.bat
